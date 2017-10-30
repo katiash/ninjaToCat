@@ -1,0 +1,42 @@
+#wrapper{
+    margin: 50px;
+    padding: 50px;
+    background-color: rgb(203, 166, 211);
+}
+
+h2{
+    color: rgb(102, 193, 245);
+    text-align: center;
+    font-family: 'Roboto', 'arial';
+    text-shadow:
+     -1px -1px 0 #fff,  
+      1px -1px 0 #fff,
+      -1px 1px 0 #fff,
+       1px 1px 0 #fff;
+}
+
+section{
+ height: 350px;
+ width: 260px;
+
+}
+
+img{
+    width: 250px;
+    height: 50px;
+    margin: 5px;
+    border: .5px solid black;
+
+}
+
+button{
+    margin: 5px;
+    background-color: lightskyblue;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
